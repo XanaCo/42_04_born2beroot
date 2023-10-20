@@ -1,6 +1,44 @@
 # 42_Born2beroot
 
-This project aims to allow the student to create a server powered up on a Virtual Machine and acquire some theory knowledge about system administration.
+## Overview
+
+The "born2beroot" project is an initiative that immerses students into the world of system administration. This project aims to get students familiarized with setting up a virtual machine, installing a Linux distribution from scratch, and configuring it securely with various constraints. They are also tasked with creating a simple monitoring script to provide essential system information.
+
+This project introduces students to the foundational aspects of system administration, server setup, user rights management, and basic security measures, offering a hands-on experience in the day-to-day responsibilities of a system administrator.
+
+## Key Components
+
+1. **Virtual Machine Setup**: Configuring a VM (Virtual Machine) using software like VirtualBox or VMware.
+
+2. **Linux Installation**: Installing a Linux distribution, typically Debian or CentOS, from scratch, without using GUI tools.
+
+3. **Partitioning**: Setting up a logical volume manager (LVM) partitioning system with encryption.
+
+4. **User and Group Management**: Creating specific users and groups, setting permissions, and understanding the principles of the `sudo` command.
+
+5. **Security Enhancements**: Configuring system settings to enhance security, such as setting password policies, disabling root access, and configuring `sudo` settings.
+
+6. **Monitoring Script**: Creating a shell script to display a range of system information, such as OS type, IP address, memory usage, and disk usage.
+
+7. **Additional Services**: Depending on project constraints, setting up services such as SSH, UFW (Uncomplicated Firewall), or others, as required.
+
+## Key Skills Developed
+
+1. **System Administration**: Acquiring foundational knowledge of the roles and responsibilities of a system administrator.
+
+2. **Linux Mastery**: Deepening their understanding of Linux operating systems, filesystems, and user rights management.
+
+3. **Security Best Practices**: Grasping the basics of securing a Linux system, from user permissions to system-wide security policies.
+
+4. **Scripting**: Developing scripting skills, specifically in Bash, to automate and monitor system activities.
+
+5. **Virtualization**: Gaining hands-on experience with virtual machines and understanding their benefits and challenges.
+
+6. **Problem Solving**: Encountering and troubleshooting issues during installation, configuration, and monitoring tasks.
+
+7. **System Monitoring**: Learning the importance of keeping an eye on system metrics and ensuring optimal performance and security.
+
+<!-- # born2beroot
 
 ### Mandatory
 
@@ -18,7 +56,6 @@ This project aims to allow the student to create a server powered up on a Virtua
 * Set up a functional WordPress website with different services
 * Set up a service of our own choice, justify that choice
 
-<!-- # born2beroot
 
 ## Concepts
 
