@@ -1,6 +1,6 @@
 
 <div align=center>
-<img src=https://github.com/Xanaco/42_00_Ressources/blob/main/born2berootm.png alt=cado-car's 42Project Badge/>
+<img src=https://github.com/Xanaco/42_00_Ressources/blob/main/born2berootm.png alt=Xanaco's 42Project Badge/>
 <h2>Final score</h2>
 <img src=https://github.com/Xanaco/42_00_Ressources/blob/main/125Grade.png alt=Xanaco's 42Project Score/>
 <h4>Completed + Bonus</h4>
