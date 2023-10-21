@@ -13,6 +13,22 @@ The "born2beroot" project is an initiative that immerses students into the world
 
 This project introduces students to the foundational aspects of system administration, server setup, user rights management, and basic security measures, offering a hands-on experience in the day-to-day responsibilities of a system administrator.
 
+### Mandatory Part
+
+* Choose between two of the most well-known Linux-based operating systems (CentOS or Debian)
+* Create LVM partitions in our new VM
+* Ensure SSH services are running on specific ports
+* Configure UFW firewall
+* Set-up the hostname and a strong password policy for all users
+* Set-up a strong configuration for the sudo group
+* Create a monitoring script that displays some specific information every 10 minutes
+
+### Bonus Part
+
+* Set up a specific memory partitioning
+* Set up a functional WordPress website with different services
+* Set up a service of our own choice, justify that choice
+
 ## Key Components
 
 1. **Virtual Machine Setup**: Configuring a VM (Virtual Machine) using software like VirtualBox or VMware.
@@ -46,23 +62,6 @@ This project introduces students to the foundational aspects of system administr
 7. **System Monitoring**: Learning the importance of keeping an eye on system metrics and ensuring optimal performance and security.
 
 <!-- # born2beroot
-
-### Mandatory
-
-* Choose between two of the most well-known Linux-based operating systems (CentOS or Debian)
-* Create LVM partitions in our new VM
-* Ensure SSH services are running on specific ports
-* Configure UFW firewall
-* Set-up the hostname and a strong password policy for all users
-* Set-up a strong configuration for the sudo group
-* Create a monitoring script that displays some specific information every 10 minutes
-
-### Bonus
-
-* Set up a specific memory partitioning
-* Set up a functional WordPress website with different services
-* Set up a service of our own choice, justify that choice
-
 
 ## Concepts
 
